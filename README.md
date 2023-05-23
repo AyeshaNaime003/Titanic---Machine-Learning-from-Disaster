@@ -2,27 +2,31 @@
 
 
 <h2>Introduction</h2>
-This repository contains a Jupyter Notebook that contains the code for creating a model to predict the survival chance of a Titanic passenger. The notebook was originally created for the Kaggle competition available at **https://www.kaggle.com/competitions/titanic/submissions.**
+This repository contains a Jupyter Notebook that contains the code for creating a model to predict the survival chance of a Titanic passenger. The notebook was originally created for the Kaggle competition available at <a href="https://www.kaggle.com/competitions/titanic/submissions">https://www.kaggle.com/competitions/titanic/submissions</a>
 
-The data is imported using the Kaggle API method, therefore, to reproduce the results you will need to have a Kaggle API file named **"kaggle.json"** in your Colab workspace.
+The data is imported using the Kaggle API method, therefore, to reproduce the results you will need to have a Kaggle API file named <strong>kaggle.json</strong> in your Colab workspace.
 
 The repository also includes the predictions made by the model.
 
 
 <h1>Contents</h2>
-TitanicSurvivalPrediction.ipynb: This is the Jupyter Notebook that contains the code for the Titanic survival prediction model.
+<ol>
+<li>TitanicSurvivalPrediction.ipynb: This is the Jupyter Notebook that contains the code for the Titanic survival prediction model.</li>
+<li>predictions.csv: This file contains the predictions made by the model.</li>
+</ol>
 
-predictions.csv: This file contains the predictions made by the model.
 
 <h2>Requirements</h2>
 To run the Jupyter Notebook and reproduce the results, you will need:
 
-Python 3.x
-Jupyter Notebook
-Pandas
-NumPy
-Scikit-learn
-A Kaggle API file named "kaggle.json" in your Colab workspace.
+<ol>
+<li>Python 3.x</li>
+<li>Jupyter Notebook</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>Scikit-learn</li>
+<li>A Kaggle API file named "kaggle.json" in your Colab workspace.</li>
+</ol>
 
 
 <h2>Usage</h2>
@@ -40,6 +44,6 @@ The original data set used for the Titanic survival prediction model was obtaine
 
 The code for the model was created by Ayesha Naime.
 
-If you have any questions or suggestions, please feel free to contact me at <a>ayeshashamim003@gmail.com.
+If you have any questions or suggestions, please feel free to contact me at <a>ayeshashamim003@gmail.com</a>
 
 
